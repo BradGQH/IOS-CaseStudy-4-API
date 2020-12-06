@@ -8,13 +8,13 @@
                         },
                         {
                             "planID" : 2,
-                            "ticketType" : "Balcony Level Ticket",
+                            "ticketType" : "Lower Level Ticket",
                             "ticketPrice" : 10434,
                             "planQTYSold" : 0
                         },
                         {
                             "planID" : 3,
-                            "ticketType" : "Balcony Level Ticket",
+                            "ticketType" : "Courtside",
                             "ticketPrice" : 27777,
                             "planQTYSold" : 0
                         }
