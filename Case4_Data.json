@@ -1,19 +1,22 @@
 {   "ticketPlans" : 
                     [
                         {
-                        "planID" : 1,
-                        "ticketType" : "Balcony Level Ticket",
-                        "ticketPrice" : 1170
+                            "planID" : 1,
+                            "ticketType" : "Balcony Level Ticket",
+                            "ticketPrice" : 1170,
+                            "planQTYSold" : 0
                         },
                         {
                             "planID" : 2,
                             "ticketType" : "Balcony Level Ticket",
-                            "ticketPrice" : 10434
+                            "ticketPrice" : 10434,
+                            "planQTYSold" : 0
                         },
                         {
                             "planID" : 3,
                             "ticketType" : "Balcony Level Ticket",
-                            "ticketPrice" : 27777
+                            "ticketPrice" : 27777,
+                            "planQTYSold" : 0
                         }
                     ]
 }
